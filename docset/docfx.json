@@ -61,6 +61,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ms.service": "powerbi",
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "ms.devlang": "powershell",
       "apiPlatform": "powershell",
